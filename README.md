@@ -3,13 +3,13 @@
 </div>
 <img src= "imagenes/encabezadosofia.jpg"/>
 
-##About me 
+## About me 
 - Student of engineer system 👩🏻‍💻
 - Website Developer  💻 
 - Application Developer 📲
-- Lover of programming and video games 🎮
+- Programming lover and video games 🎮
 
-##Contact me ☎️
+## Contact me ☎️
 - Instagram: Sofia19c
 - LinkedIn: Sofia Cespedes Vargas
 - Correo: sofiacespedesvargas@gmail.com
