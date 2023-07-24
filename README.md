@@ -1,7 +1,7 @@
 <div align = "center">
 <h1 align = "center">Hi there , I´m Sofia 👋</h1>
 </div>
-<img src= "imagenes/encabezadosofia.png">
+<img src= "imagenes/encabezadosofia.jpg">
 
 ##About me 
 - Student of engineer system 👩🏻‍💻
