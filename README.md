@@ -1,8 +1,12 @@
 
-<!--horizontal divider(gradiant)-->
-<img src="encabezado sofia.jpg">
+<!-- horizontal divider(gradiant) -->
+<div style="text-align: center;">
+    <img src="encabezado_sofia.jpg" alt="Texto alternativo">
+</div>
 
-<!--h1 without bottom border-->
+<!-- h1 without bottom border -->
+<h1 style="border-bottom: none;">Título sin borde inferior</h1>
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Sofia</h1></summary>
