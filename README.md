@@ -13,8 +13,8 @@
 <!--- snake -->
 
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img  src="encabezado sofia.jpg"
+       alt="sofia" /></a>
 </div>
 
 <!--h2 without bottom border-->
