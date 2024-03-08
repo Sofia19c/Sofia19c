@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I am currently focusing on mobile and web development, although I am passionate about **cybersecurity**
+- 🔭 I am currently focusing on **mobile and web development**, although I am passionate about **cybersecurity**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
