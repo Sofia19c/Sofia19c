@@ -1,6 +1,6 @@
 
 <!--horizontal divider(gradiant)-->
-<img src="C:\Users\sofiv\Documents\perfil github\Sofia19c\imagenes">
+<img src="encabezado sofia.jpg">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
