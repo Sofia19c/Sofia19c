@@ -12,7 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="C:\Users\sofiv\Documents\Encabezado"
+  <img  src="<img src="encabezado sofia.jpg">"
        alt="snake" /></a>
 </div>
 
