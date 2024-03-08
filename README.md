@@ -1,9 +1,7 @@
-<!-- horizontal divider(gradiant) -->
-<div style="text-align: center;">
-    <img src="encabezado_sofia.jpg" alt="Texto alternativo">
-</div>
+<!--horizontal divider(gradiant)-->
+<img src="encabezado sofia.jpg">
 
-<!-- h1 without bottom border -->
+<!--h1 without bottom border-->
 
 <div id="user-content-toc">
   <ul align="center">
